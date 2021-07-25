@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS, TypeScript, GraphQL and always improving in ReactJS**
 
-- 📫 How to reach me **Gabriel.shaad@gmail.com**
+- 📫 How to reach me **gabriel.shaad@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabrielalexandre/](https://www.linkedin.com/in/gabrielalexandre/)
 
