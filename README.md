@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Alexandre</h1>
 <h3 align="center">A dedicated father and Senior Front-End Developer from Brazil</h3>
 
-- 🔭 I’m currently working on [iFood](https://shop.ifood.com.br)
+- 🔭 I’m currently working at [MoOngy](https://moongy.group)
 
 - 🌱 I’m currently learning **NextJS, TypeScript, GraphQL and always improving in ReactJS**
 
