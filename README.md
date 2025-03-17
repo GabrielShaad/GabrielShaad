@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Alexandre</h1>
-<h3 align="center">A dedicated father and Senior Front-End Developer from Brazil</h3>
+<h3 align="center">A dedicated father and Senior from Brazil</h3>
 
 - 🔭 I’m currently working at [Grupo Boticário](https://www.grupoboticario.com.br/)
 
-- 🌱 I’m currently learning **NextJS, Remix and always improving in ReactJS**
+- 🌱 I’m currently learning **Node and always improving in ReactJS**
 
 - 📫 How to reach me **gabriel.shaad@gmail.com**
 
