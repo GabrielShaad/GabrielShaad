@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Alexandre</h1>
-<h3 align="center">A dedicated father and Senior from Brazil</h3>
+<h3 align="center">A dedicated father and Senior Engineer from Brazil</h3>
 
 - 🔭 I’m currently working at [Grupo Boticário](https://www.grupoboticario.com.br/)
 
